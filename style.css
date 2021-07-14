@@ -16,3 +16,21 @@ box-shadow: 5px 5px 5px blueviolet;
     font-size: 18px;
     
 }
+.result_para_tag{
+    box-shadow: 5px 5px 5px orangered;
+    font-size: 20px;
+}
+.my_footer{
+    position: fixed;
+    color: white;
+    bottom: 0;
+   width: 100%;
+   background: grey;
+   line-height: 3;
+   text-align: center;
+}
+canvas{
+border: 5px solid white;
+border-radius: 20px;
+box-shadow: 5px 5px 5px red;
+}
